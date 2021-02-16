@@ -1,0 +1,5 @@
+- [ ] fazer o processo todo manualmente
+- [ ] converter funções de matlab para python
+- [ ] integrar o wfdb
+- [ ] uma vez feito tudo na mão, começar a colocar decorators
+- [ ] colocado os decorators, criar a UI
